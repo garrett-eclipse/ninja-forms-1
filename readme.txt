@@ -122,7 +122,7 @@ For help and video tutorials, please visit our website: [Ninja Forms Documentati
 *Changes:*
 
 * (GDPR) Fields excluded by the store submission action will now show their values as (redacted) in the edit submission screen, rather than displaying nothing.
-* (GDPR) The delete data request action now includes a setting to specify anonimization of Ninja Forms data, rather than full deletion.
+* (GDPR) The delete data request action now includes a setting to specify anonymization of Ninja Forms data, rather than full deletion.
 * (GDPR) Fields now have a setting to specify if they are personally identifiable data.
 * Registered a cleanup process to take care of some outdated and unnecessary data we have been storing in various data records.
 * Added several ARIA attributes to the fields that were missing them.
@@ -142,7 +142,7 @@ For help and video tutorials, please visit our website: [Ninja Forms Documentati
 *Changes:*
 
 * (GDPR) Fields excluded by the store submission action will now show their values as (redacted) in the edit submission screen, rather than displaying nothing.
-* (GDPR) The delete data request action now includes a setting to specify anonimization of Ninja Forms data, rather than full deletion.
+* (GDPR) The delete data request action now includes a setting to specify anonymization of Ninja Forms data, rather than full deletion.
 * (GDPR) Fields now have a setting to specify if they are personally identifiable data.
 * Registered a cleanup process to take care of some outdated and unnecessary data we have been storing in various data records.
 * Added several ARIA attributes to the fields that were missing them.
